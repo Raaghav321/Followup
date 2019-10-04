@@ -53,3 +53,15 @@ print("He's %d inches tall." % myHeight)
 print("He's got %s eyes and hair" %(myEyes, myHair))
 print("add %d and %d, I get d%" %(myAge, myHeight, myAge+myMeight))
 
+# More Variables and playing with output
+objectIHave = "chair"
+objectAge = 25
+objectHeight = 36 # inches
+objectFeeling = "comfortable"
+objectMatireal = "silk"
+
+print("Lets talk about %s." %myObject)
+print("Object %d inches tall" %objectHeight)
+print("Object %s eyes and hair" %(myEyes, myEyes))
+print("add %d, I get d%." %(myAge, myHeight, myAge+myHeight))
+
